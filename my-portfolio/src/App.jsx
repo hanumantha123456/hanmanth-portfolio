@@ -230,7 +230,7 @@ export default function Portfolio() {
         desc: "Modern and responsive portfolio website highlighting my projects, skills, and professional background.",
         links: [
       { label: "Live", href: "https://hanumantharaya-portfolio.netlify.app/" },
-      { label: "GitHub", href: "https://github.com/your-repo" }
+      { label: "GitHub", href: "https://github.com/hanumantha123456/Hanmanth-portfolio" }
     ]
       },
     ],
